@@ -1,0 +1,5 @@
+.env
+credentials.json
+.idea/
+__pycache__/
+*.pyc
